@@ -1,0 +1,15 @@
+C:\Users\Juanb\Desktop\ola\TareaCSharp\bin\Debug\net10.0\TareaCSharp.exe
+C:\Users\Juanb\Desktop\ola\TareaCSharp\bin\Debug\net10.0\TareaCSharp.deps.json
+C:\Users\Juanb\Desktop\ola\TareaCSharp\bin\Debug\net10.0\TareaCSharp.runtimeconfig.json
+C:\Users\Juanb\Desktop\ola\TareaCSharp\bin\Debug\net10.0\TareaCSharp.dll
+C:\Users\Juanb\Desktop\ola\TareaCSharp\bin\Debug\net10.0\TareaCSharp.pdb
+C:\Users\Juanb\Desktop\ola\TareaCSharp\obj\Debug\net10.0\TareaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanb\Desktop\ola\TareaCSharp\obj\Debug\net10.0\TareaCSharp.AssemblyInfoInputs.cache
+C:\Users\Juanb\Desktop\ola\TareaCSharp\obj\Debug\net10.0\TareaCSharp.AssemblyInfo.cs
+C:\Users\Juanb\Desktop\ola\TareaCSharp\obj\Debug\net10.0\TareaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Juanb\Desktop\ola\TareaCSharp\obj\Debug\net10.0\TareaCSharp.sourcelink.json
+C:\Users\Juanb\Desktop\ola\TareaCSharp\obj\Debug\net10.0\TareaCSharp.dll
+C:\Users\Juanb\Desktop\ola\TareaCSharp\obj\Debug\net10.0\refint\TareaCSharp.dll
+C:\Users\Juanb\Desktop\ola\TareaCSharp\obj\Debug\net10.0\TareaCSharp.pdb
+C:\Users\Juanb\Desktop\ola\TareaCSharp\obj\Debug\net10.0\TareaCSharp.genruntimeconfig.cache
+C:\Users\Juanb\Desktop\ola\TareaCSharp\obj\Debug\net10.0\ref\TareaCSharp.dll
